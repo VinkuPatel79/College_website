@@ -1,0 +1,30 @@
+/* Footer.css */
+/*#223d50*/
+.footer-container {
+    background-color:#223d50;
+    color: #ffffff;
+    padding: 20px 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+  }
+  
+  .footer-column {
+    flex: 1;
+    padding: 10px;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .footer-column h3 {
+    font-size: 15px;
+    margin-bottom: 10px;
+  }
+  
+  .footer-column p {
+    font-size: 14px;
+  }
+  
+  /* Add additional styles as needed */
+  

@@ -1,0 +1,14 @@
+.background-image{
+    background-image: url("./Gallary/why.jpg");
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.background-about-image{
+    background-image: url("./Gallary/backs.png");
+    width:100%;
+    height:100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

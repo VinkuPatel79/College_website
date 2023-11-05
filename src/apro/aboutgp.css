@@ -1,0 +1,49 @@
+.backimg{
+    background-image: url('slider-2.jpg'); /* Replace 'your-image.jpg' with the actual image path */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-repeat: no-repeat;
+  height: 300px;
+  background-color: rgb(35, 35, 163);
+}
+.background-overlay {
+    position: absolute;
+    margin-top: 0px;
+    left: 0;
+    width: 100%;
+    height: 300px;
+    background-color: rgba(63, 78, 181, 0.5); /* Red color with 50% opacity */
+    pointer-events: none; /* Allows interactions with content behind the overlay */
+  }
+
+.backcs
+  {
+ position: absolute;
+ background-image: url('1.jpg');
+ height: 225px;
+ width: 250px;
+ size: 300px;
+ margin-left: 175px;
+  }
+  
+.backcs2
+{
+position: absolute;
+background-image: url('2.jpg');
+height: 230px;
+width: 250px;
+size: 300px;
+margin-left: -185px;
+margin-top: 50px;
+}
+.backcs3
+{
+position: absolute;
+background-image: url('3.jpg');
+height: 230px;
+width: 200px;
+size: 300px;
+margin-left: 225px;
+margin-top: 50px;
+
+}
